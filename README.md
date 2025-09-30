@@ -22,6 +22,7 @@ departments.csv — Department names and IDs
 order_products__prior.csv & order_products__train.csv — Products included in each order and reorder information
 
 # Project Workflow
+
 1. Extract
 
 Loaded CSV files into Pandas DataFrames.
@@ -58,9 +59,8 @@ Orders by Day of Week
 
 Shows customer ordering trends across the week.
 
-(Optional: Extend with market basket analysis, customer segmentation, or hourly ordering patterns.)
 
-Technologies Used
+# Technologies Used
 
 Python — Pandas, NumPy
 
